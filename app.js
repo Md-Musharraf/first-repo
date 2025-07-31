@@ -1,14 +1,16 @@
 let a = 10;
 let b = 20;
 
-function addNum() {
+let add = function addNum() {
   return a + b;
-}
+};
 
-function sumNum() {
+let sub = function subNum() {
   return a - b;
-}
+};
 
-function multipleNum() {
+let multiple = function multipleNum() {
   return a * b;
-}
+};
+
+console.log(add, sub, multiple);
