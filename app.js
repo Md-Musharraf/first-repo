@@ -4,3 +4,7 @@ let b = 20;
 function addNum() {
   return a + b;
 }
+
+function sumNum() {
+  return a - b;
+}
