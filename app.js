@@ -8,3 +8,7 @@ function addNum() {
 function sumNum() {
   return a - b;
 }
+
+function multipleNum() {
+  return a * b;
+}
